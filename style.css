@@ -1,7 +1,11 @@
-#Barry{
-    background-image: src("Barry bee benson.jpg");
+body{
+    background-image:url("Barry bee benson.jpg");
 }
 td{
     font-size:xx-large;
+    color: gray;
+}
+p{
+    font-size: xx-large;
     color: gray;
 }
