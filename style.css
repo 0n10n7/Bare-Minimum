@@ -1,7 +1,8 @@
 body{
     background-image:url("Barry bee benson.jpg");
-    transform:rotateZ(3deg);
+    
     background-color: black;
+    margin-top: 17em;
 }
 td{
     font-size:xx-large;
@@ -9,5 +10,7 @@ td{
 }
 p{
     font-size: xx-large;
-    color: gray;
+    color: black;
+    transform:rotateZ(10deg);
+    background-color: cornflowerblue;
 }
