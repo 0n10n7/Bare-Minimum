@@ -7,6 +7,8 @@ body{
 td{
     font-size:xx-large;
     color: yellow;
+    background-color: black;
+    opacity: 50%;
 }
 p{
     font-size: xx-large;
